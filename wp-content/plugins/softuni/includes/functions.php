@@ -2,6 +2,4 @@
 
 // File for generic functions
 
-
-
 ?>
