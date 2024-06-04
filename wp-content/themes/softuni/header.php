@@ -21,7 +21,7 @@
     
 </head>
 
-<body>
+<body <?php body_class(); ?> >
 
     <!-- Site Header -->
     <div class="site-header-bg">

@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-ROBOT.PHP
+
 <div class="intro row">
     <div class="overlay"></div>
     <div class="col-sm-12">
