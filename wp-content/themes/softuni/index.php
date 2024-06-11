@@ -15,6 +15,8 @@
 </section>
 <!-- /#header -->
 
+new text
+
 <!-- Product -->
 
 <section id="product" class="product">
